@@ -4,9 +4,9 @@ This project allows you to parse your Palworld save files and track your Paldeck
 
 ## Project Use
 
-* [Pal Information and Attributes](https://github.com/mlg404/palworld-paldex-api/tree/main/src) are taken from the _.json_ files in this repo.
-* [.SAV to JSON conversion](https://github.com/cheahjs/palworld-save-tools)
-* [AssetID to IGNs](https://palwiki.io/)
+* Pal information and attributes are taken from the _.json_ files in [Palworld-Paldex-API](https://github.com/mlg404/palworld-paldex-api/tree/main/src).
+* .SAV to JSON conversion is done using [Palworld-Save-Tools](https://github.com/cheahjs/palworld-save-tools)
+* AssetID to in game name (IGN) uses [Palwiki.io](https://palwiki.io/)
 
 ## How to Use
 
